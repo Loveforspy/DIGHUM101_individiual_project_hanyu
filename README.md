@@ -1,4 +1,4 @@
-![Alt Text](af2b8e57f6d7b5d43a616bd1e27ba552cd8bfd42.jpeg)
+![Alt Text](facebook-header-size-clouds-1-1140834.jpg)
 
 # Individual Project: The Most Frequently Used Words In Queen’ s Songs
 
