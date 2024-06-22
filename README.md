@@ -1,8 +1,8 @@
+![Alt Text](af2b8e57f6d7b5d43a616bd1e27ba552cd8bfd42.jpeg)
+
 # Individual Project: The Most Frequently Used Words In Queen’ s Songs
 
 **Student Name: Hanyu Fu**
-
-![Alt Text](af2b8e57f6d7b5d43a616bd1e27ba552cd8bfd42.jpeg)
 
 ## Description:
    This is a file for the final individual project of DIGHUM101, UCBerkeley summer session. <br>
